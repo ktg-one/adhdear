@@ -1,0 +1,6 @@
+{
+  "name": "SYNAPSE // HUD - Cybernetic ADHD Desktop Overlay",
+  "description": "ADHD desktop execution overlay, 2x2 cognitive matrix triage, async idea incubator scout, coupled audio engine, and hard-stop boundary enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
